@@ -1,0 +1,11 @@
+{
+  "name": "html",
+  "version": "0.1.0",
+  "description": "HTML encode/decode and entity picker for NumenText",
+  "min_version": "1.0.0",
+  "commands": [
+    {"id": "html.encode", "title": "HTML Encode"},
+    {"id": "html.decode", "title": "HTML Decode"},
+    {"id": "html.entity", "title": "Insert HTML Entity"}
+  ]
+}
